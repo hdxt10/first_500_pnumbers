@@ -1,4 +1,1 @@
-Flask
-requests
-pytest
-Python 3.13.3
+Python3 3.13.3
